@@ -88,8 +88,3 @@ gh repo create YOUR_GITHUB_USERNAME/spark-scala-portfolio-example `
 > A production-ready Spark project in Scala (2.12) targeting Spark 3.5. It includes a WordCount job, a small DataFrame pipeline, tests with ScalaTest, sbt-assembly config, and runnable examples.
 
 ---
-
-### Portfolio tips
-- Pin this repo to your GitHub profile.
-- Add a short "Why this project" section to the README explaining design choices (input parameters, simple logging, tests).
-- Consider adding a GitHub Actions workflow to run tests on push.
