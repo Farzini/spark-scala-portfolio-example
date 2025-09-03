@@ -1,0 +1,3 @@
+Apache Spark is a unified analytics engine for large-scale data processing.
+Spark runs on Hadoop, Kubernetes, standalone, or in the cloud.
+Spark is fast and general-purpose.

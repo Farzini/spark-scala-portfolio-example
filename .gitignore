@@ -1,0 +1,14 @@
+# sbt
+target/
+project/target/
+project/project/
+
+# IntelliJ / Metals
+.idea/
+.vscode/
+.metals/
+.bloop/
+*.iml
+
+# Logs
+*.log
